@@ -26,7 +26,7 @@ namespace WindowsFormsApplication1
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            //фываыоважфдыоваджфыова
             if (funcBox.Text != "" || aBox.Text != "" || bBox.Text != "" || tolBox.Text != "" || iterBox.Text != "" || max_timeBox.Text != "")
             {
                
